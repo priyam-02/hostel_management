@@ -72,6 +72,7 @@ Here are some screenshots to understand how to use the project.
 ![3](https://user-images.githubusercontent.com/108848788/180654604-16a0d500-df36-4e66-8477-66a17ff6ca22.png)
 
 ADMIN SIDE:-
+
      1. ADMIN DASHBOARD:
 ![4](https://user-images.githubusercontent.com/108848788/180654610-56a46ba0-11ea-4961-8ba3-bf6f0f9c1bc8.png)
 
