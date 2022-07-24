@@ -4,7 +4,6 @@ Hostel Management System is web based application. This project is used to manag
 
 Project Features:
      •	A project on hostel management system using Apache server and MySQL and User Interface is designed using HTML, AJAX, JAVASCRIPT. 
-
      •	Hostel management system is divided into two modules.
      •	Admin module
      •	User module
