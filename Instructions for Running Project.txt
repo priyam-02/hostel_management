@@ -1,0 +1,15 @@
+Hostel Management Systen 
+
+Installation Steps(Configuration):
+1. Download and Unzip the file on your local system.
+2. Put "hostel" folder inside xampp/htdocs/ .
+3. Database Configuration
+
+Open phpmyadmin:
+Create Database hostel.
+Import database hostel.sql which is present in "SQL FILE" folder
+
+Login Details:
+To use the project enter in browser “http://localhost/hostel”
+Login Details for admin : admin123@gmail.com/admin123
+Login Details for user : raj123@gmail.com/raj123 or Create New User by registering it in the project.
