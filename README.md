@@ -1,4 +1,4 @@
-# hostel_management
+# Hostel Management System
 
 Hostel Management System is web based application. This project is used to manage the student, hostel details. Hostel Management System developed using PHP and MySQL.
 
